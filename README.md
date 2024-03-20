@@ -13,5 +13,5 @@ Le but de ce projet est de collecter des tweets en rapport avec la réforme des 
 ## Installation des dépendances
 ```bash
 pip install -r requirements.txt
-
+```
 ## Config Kafka (Dossier Kafka)
