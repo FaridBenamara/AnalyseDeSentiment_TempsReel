@@ -15,3 +15,7 @@ Le but de ce projet est de collecter des tweets en rapport avec la réforme des 
 pip install -r requirements.txt
 ```
 ## Config Kafka (Dossier Kafka)
+```bash
+Windows :  C:\kafka\bin\zookeeper-server-start.bat
+Linux : nohup $KAFKA_HOME/bin/zookeeper-server-start.sh
+```
