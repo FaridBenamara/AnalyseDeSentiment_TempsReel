@@ -1,0 +1,5 @@
+selenium
+kafka-python
+psycopg2
+nltk
+langdetect
