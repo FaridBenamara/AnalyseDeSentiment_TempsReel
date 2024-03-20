@@ -9,7 +9,8 @@ Le but de ce projet est de collecter des tweets en rapport avec la réforme des 
 - Python 3.x
 - Dépendances Python : `selenium`, `kafka-python`, `psycopg2`, `nltk`, `langdetect`
 - WebDriver (par exemple, ChromeDriver) pour Selenium
-
+## WebDriver Selenium Chrome Link
+- [WebDriver pour Selenium](https://chromedriver.chromium.org/downloads)
 ## Installation des dépendances
 ```bash
 pip install -r requirements.txt
